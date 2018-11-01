@@ -1,0 +1,42 @@
+1)*****sample:2000, topic:50
+
+Target:  toxic  count:  0.920555555556 , with LDA:   0.923888888889
+Target:  severe_toxic  count:  0.986111111111 , with LDA:   0.986666666667
+Target:  obscene  count:  0.956666666667 , with LDA:   0.965
+Target:  threat  count:  0.998888888889 , with LDA:   0.998888888889
+Target:  insult  count:  0.960555555556 , with LDA:   0.964444444444
+Target:  identity_hate  count:  0.990555555556 , with LDA:   0.990555555556
+
+Target:  toxic  tfidf:  0.902777777778 , with LDA:   0.91
+Target:  severe_toxic  tfidf:  0.986666666667 , with LDA:   0.986666666667
+Target:  obscene  tfidf:  0.946666666667 , with LDA:   0.953888888889
+Target:  threat  tfidf:  0.998888888889 , with LDA:   0.998888888889
+Target:  insult  tfidf:  0.951111111111 , with LDA:   0.957777777778
+Target:  identity_hate  tfidf:  0.99 , with LDA:   0.99
+
+
+
+2)*****sample:3000, topic:50
+Target:  toxic  count:  0.926296296296 , with LDA:   0.927407407407
+Target:  severe_toxic  count:  0.985185185185 , with LDA:   0.984814814815
+Target:  obscene  count:  0.965185185185 , with LDA:   0.968518518519
+Target:  threat  count:  0.994814814815 , with LDA:   0.994814814815
+Target:  insult  count:  0.951111111111 , with LDA:   0.953333333333
+Target:  identity_hate  count:  0.985185185185 , with LDA:   0.985185185185
+
+
+3)******sample:3000, topic:30
+Target:  toxic  count:  0.926296296296 , with LDA:   0.928148148148
+Target:  severe_toxic  count:  0.985185185185 , with LDA:   0.985185185185
+Target:  obscene  count:  0.965185185185 , with LDA:   0.967037037037
+Target:  threat  count:  0.994814814815 , with LDA:   0.994814814815
+Target:  insult  count:  0.951111111111 , with LDA:   0.955555555556
+Target:  identity_hate  count:  0.985185185185 , with LDA:   0.985185185185
+
+
+Target:  toxic  tfidf:  0.904814814815 , with LDA:   0.917777777778
+Target:  severe_toxic  tfidf:  0.984814814815 , with LDA:   0.984074074074
+Target:  obscene  tfidf:  0.948888888889 , with LDA:   0.958148148148
+Target:  threat  tfidf:  0.995555555556 , with LDA:   0.995555555556
+Target:  insult  tfidf:  0.942962962963 , with LDA:   0.954814814815
+Target:  identity_hate  tfidf:  0.985925925926 , with LDA:   0.985925925926
